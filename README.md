@@ -111,6 +111,10 @@ dedicated to this program,
 Donations
 ---------
 
-BitZeny : Zq83XMtc9gShkgi4bNNHWA4FDbMe8dFQmD
+BitZeny : Zn586MBLa8dLdh9ueC9CAZ54noV83ZeXBj
+BitCoin : 14aXANE9WfxRAu3LtcSo4z2VmENBWqyqs2
+LiteCoin : LcTtEV3aPCiPqEABK9ujHK2wcATADqjur6
+BitCoin Cash : 1JJQ54vQxUBChzNV1CC9QjEWpRNf8q29Su
+ZCash : t1bWyu16VKzjYG7ZCcBydzLBT8bDSKg16PM
 
 Happy mining!
