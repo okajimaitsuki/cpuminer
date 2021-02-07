@@ -1,4 +1,4 @@
-if minerd
+if minerd --help
     then
     echo "minerd detected."
     else
