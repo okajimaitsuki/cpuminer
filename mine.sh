@@ -1,4 +1,4 @@
-if minerd --help
+if minerd --help 2> /dev/null 1> /dev/null
     then
     echo "minerd detected."
     else
@@ -26,3 +26,8 @@ case $1 in
     BTC) $0 BitCoin $2 ;;
     bitcoin) $0 BTC $2
 esac
+echo 'Usage: '$0' <Crypto Currency Name> <Address>'
+echo '    Crypto Currency Name:'
+echo '        ZNY - BitZeny'
+echo '        BTC - BitCoin'
+echo 'Warn: If you set different address, you wil loss all rewards by this scripts.'
